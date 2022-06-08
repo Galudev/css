@@ -1,0 +1,29 @@
+header{
+    height: 12vh;
+    background-color: #fe0000;
+}
+
+nav{
+    height: 4vh;
+    background-color: #007fff;
+}
+
+section{
+    height: 80vh;
+    width: 63%;
+    float: left;
+    background-color: #fec6c5;
+}
+
+aside{
+    height: 80vh;
+    width: 35%;
+    float: right;
+    background-color: #fe80fe;
+}
+
+footer{
+    clear: both;
+    height: 4vh;
+    background-color: #80ff00;
+}
