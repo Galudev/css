@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    
+}
+.box{
+    width: 30%;
+    font-size: xx-large;
+    border: solid 1px gray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: rgb(245, 245, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box-1{
+    text-align: left;
+}
+.box-2{
+    text-align: center;
+}
+.box-3{
+    text-align: right;
+}
